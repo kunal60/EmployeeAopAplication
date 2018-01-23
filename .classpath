@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spring Jars LIbrary"/>
+	<classpathentry kind="lib" path="D:/Jars/AOP Jars/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/AOP Jars/aspectjrt-1.7.4.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/AOP Jars/aspectjweaver-1.6.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
